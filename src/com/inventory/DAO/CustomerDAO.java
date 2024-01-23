@@ -19,6 +19,7 @@ import java.util.Vector;
  * @author asjad
  */
 
+//demo comment
 // Data Access Object for Customers
 public class CustomerDAO {
     Connection conn = null;
